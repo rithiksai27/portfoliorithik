@@ -33,7 +33,7 @@ const Hero = () => {
             Creating the Future of Technology Today
           </p>
 
-          <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="/Rithik_Sai_Kodeboyina_Resume.pdf" target="_blank" rel="noopener noreferrer">
             <MagicButton
               title="Resume"
               icon={<FaLocationArrow />}

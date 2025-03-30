@@ -11,7 +11,7 @@ export function Grades() {
           KL University, Computer Science and Engineering
         </p>
         <p className="text-3xl sm:text-4xl text-neutral-100 dark:text-neutral-400 mb-4">
-          <b className="text-lime-300">CGPA: 9.49/10</b>
+          <b className="text-lime-300">CGPA: 9.46/10</b>
         </p>
 
         <h2 className="text-lg text-yellow-400 font-bold mb-3 opacity-80">Relevant Coursework:</h2>

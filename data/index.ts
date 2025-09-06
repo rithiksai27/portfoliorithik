@@ -107,22 +107,6 @@ export const projects = [
   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
   link: "https://chessify-shg5.onrender.com/",
 },
-{
-  id: 5,
-  title: "Amazon-Inspired E-Commerce Site",
-  des: "Developed a website similar to Amazon using HTML and CSS.",
-  img: "/amazonclone.svg",
-  iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-  link: "https://rithiksai27.github.io/AmazonClone/",
-},
-{
-  id: 6,
-  title: "iCoder Tech Hub with Bootstrap",
-  des: "Developed an iCoder website using Bootstrap for login, signup, and contact pages.",
-  img: "/icoder.svg",
-  iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  link: "https://rithiksai27.github.io/iCoderBlogging/index.html?#",
-},
 ];
 
 

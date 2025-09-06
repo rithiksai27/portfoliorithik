@@ -21,6 +21,9 @@ export function Grades() {
           <li className="whitespace-nowrap">Object-Oriented Programming</li>
           <li>Operating Systems</li>
           <li>Computer Networks</li>
+          <li>Web Development</li>
+          <li>Software Engineering</li>
+          <li>Artificial Intelligence</li>
         </ul>
       </BackgroundGradient>
 
